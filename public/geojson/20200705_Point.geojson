@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "20200705_Point",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "name": "A1", "X": 101.743876359, "Y": 79.75639323 }, "geometry": { "type": "Point", "coordinates": [ 101.743876358806972, 79.756393229963635 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "name": "B1", "X": 101.421458011, "Y": 79.711882989499998 }, "geometry": { "type": "Point", "coordinates": [ 101.421458010878553, 79.71188298950841 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "name": "C1", "X": 101.133067997, "Y": 79.673609006099994 }, "geometry": { "type": "Point", "coordinates": [ 101.133067997390242, 79.673609006050867 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "name": "D1", "X": 101.372326198, "Y": 79.658796552300004 }, "geometry": { "type": "Point", "coordinates": [ 101.37232619849533, 79.658796552319075 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "name": "E1", "X": 100.873050654, "Y": 79.614431024500007 }, "geometry": { "type": "Point", "coordinates": [ 100.873050653764722, 79.614431024472253 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "name": "F1", "X": 101.01085288100001, "Y": 79.565356106799996 }, "geometry": { "type": "Point", "coordinates": [ 101.010852880556058, 79.565356106798959 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "name": "G1", "X": 101.26841078699999, "Y": 79.546461925299994 }, "geometry": { "type": "Point", "coordinates": [ 101.268410787028245, 79.546461925277697 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 8, "name": "H1", "X": 101.008251859, "Y": 79.740239171200002 }, "geometry": { "type": "Point", "coordinates": [ 101.008251858636413, 79.740239171200869 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 9, "name": "I1", "X": 100.986907266, "Y": 79.6857449731 }, "geometry": { "type": "Point", "coordinates": [ 100.986907266457251, 79.685744973052124 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 10, "name": "J1", "X": 100.785599918, "Y": 79.669802630899994 }, "geometry": { "type": "Point", "coordinates": [ 100.785599917901948, 79.66980263088675 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 11, "name": "K1", "X": 102.085035559, "Y": 79.648796931999996 }, "geometry": { "type": "Point", "coordinates": [ 102.08503555924375, 79.648796932032838 ] } }
+]
+}
