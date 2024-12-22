@@ -30,7 +30,7 @@ If necessary can use Nginx to agent ip then can access to url: [http://210.72.81
 ## System instruction
 
 ```bash
-3.1About Operational planning：
+1、About Operational planning：
 
 Feature description:
 
@@ -50,7 +50,7 @@ The right side will show Real-time operational planning for vessels include Repl
 
 Digital twin users can select some parametres such as floes、sea fog and so on .
 
-Initial planning
+2、Initial planning
 
 Feature description:
 
@@ -100,7 +100,7 @@ Below is the strategic route drawn after the start and end points are marked and
 
 metric display area displays the metric calculation results of the current path.
 
-3.3 Routes compare
+3 Routes compare
 
 Feature description:
 
