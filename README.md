@@ -1,7 +1,12 @@
 # Instructions
 
 ```bash
-RouteView 2.0, an enhanced iteration of the route planning system for ships sailing through Arctic ice zones (RouteView), was meticulously designed to provide ships with real-time route optimization and calculation during Arctic voyages, ensuring precise navigation through ice zones. The development and testing of RouteView 2.0 were conducted on a high-performance computer featuring an Intel Core i7-10700HQ @ 2.90 GHz processor and 32 GB of memory operating on a 64-bit Windows 11 OS. For deployment, RouteView 2.0 uses an Ubuntu 18.0.4 server equipped with Nginx, Redis, and JDK 1.8.x, which boasts 64 GB of RAM. The system is accessible and deployable on both the front and back ends through a Nginx proxy.
+RouteView 2.0, an enhanced iteration of the route planning system for ships sailing through Arctic ice zones (RouteView),
+was meticulously designed to provide ships with real-time route optimization and calculation during Arctic voyages,
+ensuring precise navigation through ice zones.
+The development and testing of RouteView 2.0 were conducted on a high-performance computer featuring an Intel Core i7-10700HQ @ 2.90 GHz processor and 32 GB of memory operating on a 64-bit Windows 11 OS.
+For deployment, RouteView 2.0 uses an Ubuntu 18.0.4 server equipped with Nginx, Redis, and JDK 1.8.x, which boasts 64 GB of RAM.
+The system is accessible and deployable on both the front and back ends through a Nginx proxy.
 ```
 
 ## Development & deployment
