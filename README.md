@@ -9,11 +9,11 @@ RouteView 2.0, an enhanced iteration of the route planning system for ships sail
 ```bash
 Step1:clone code from https://github.com/nbs16888/Routeview2.0.git
 
-     Step2: create Mysql or Postgresql database ry-flowable-plus and execute database sql files as follows mysql\_ry\_v0.8.X.sql、mysql\_xxl\_job.sql、flowable\_6.7.2\_mysql sequentially 
+Step2: create Mysql or Postgresql database ry-flowable-plus and execute database sql files as follows mysql\_ry\_v0.8.X.sql、mysql\_xxl\_job.sql、flowable\_6.7.2\_mysql sequentially 
 
-       Step3: edit project root directory src\\main\\pom.xml <java.version>8</java.version> and resources\\application-dev.yml database link message
+Step3: edit project root directory src\\main\\pom.xml <java.version>8</java.version> and resources\\application-dev.yml database link message
 
-       Step4: execute commond : mvn package or maven package jar file then by execute a commond: java –jar xxx.jar to start server  
+Step4: execute commond : mvn package or maven package jar file then by execute a commond: java –jar xxx.jar to start server  
 
 Step5: to ruoyi-ui directory and execute npm install --registry=https://registry.npmjs.org to install npm dependents
 
